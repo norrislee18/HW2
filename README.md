@@ -12,4 +12,4 @@ Some awesome information
 
 Stewardesses is the longest word typed with 1 hand.
 
-Mind Blown!
+*Mind Blown!*
