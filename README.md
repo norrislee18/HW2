@@ -1,8 +1,7 @@
 HelloWorld
 ==========
-Added a line.
+The Hello World project
 
-Added a header
+New Features!
 =
-blahblah.
-
+None.
